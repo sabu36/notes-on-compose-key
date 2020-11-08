@@ -23,6 +23,7 @@ guillemot `«` | `<` `<`
 circled `⑫ ` | `(` `1` `2` `)`
 section `§` | `s` `o`
 ellipsis `…` | `.` `.`
+non-breaking ` ` | ` ` ` `
 heart `♥` | `<` `3`
 eighth note `♪` | `#` `e`
 smile `☺` | `:` `)`
