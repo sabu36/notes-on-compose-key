@@ -19,11 +19,12 @@ Result | Press 'compose' and
 -------|--------------------
 em dash `—` | `-` `-` `-`
 arrow `→` | `-` `>`
+identical `≡` | `=` `_`
 guillemot `«` | `<` `<`
 circled `⑫ ` | `(` `1` `2` `)`
 section `§` | `s` `o`
 ellipsis `…` | `.` `.`
-non-breaking ` ` | ` ` ` `
+non-breaking ` ` | ` ` &nbsp;` `
 heart `♥` | `<` `3`
 eighth note `♪` | `#` `e`
 smile `☺` | `:` `)`
